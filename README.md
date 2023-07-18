@@ -10,5 +10,6 @@ If the server response is false, the app opens a unique game. The game can belon
 
 Furthermore, after the first launch, the app saves the server response information, which can be stored in a local database or storage. Upon subsequent launches, the app opens the corresponding view (WebView or game) that was initially opened, regardless of any changes in the server data.
 
-Uploading Screen Recording 2023-07-18 at 23.37.34.mov…
+https://github.com/Vangik/GameApplication/assets/38313181/0a3ef42e-e47e-4082-98f7-c85294190154
+
 
